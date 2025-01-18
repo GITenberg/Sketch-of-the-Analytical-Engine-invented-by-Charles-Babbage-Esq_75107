@@ -1,0 +1,32 @@
+_repo: Sketch-of-the-Analytical-Engine-invented-by-Charles-Babbage-Esq_75107
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lovelace, Ada
+    gutenberg_agent_id: '57832'
+    url: http://www.gutenberg.org/2009/agents/57832
+creator:
+  author:
+    agent_name: Menabrea, Luigi Federico
+    gutenberg_agent_id: '57831'
+    url: http://www.gutenberg.org/2009/agents/57831
+description: ''
+gutenberg_issued: '2025-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75107'
+language: en
+pgterms:marc904: https://archive.org/details/scientificmemoir03memo
+pgterms:marc905: 20241210040300menabrea
+pgterms:marc906: '1843'
+pgterms:marc907: GB
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: '  $aLondon :$bRICHARD AND JOHN E. TAYLOR, $c1843.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sketch of the Analytical Engine invented by Charles Babbage, Esq.
+url: http://www.gutenberg.org/ebooks/75107
